@@ -1,4 +1,4 @@
-connection: "account_usage"
+connection: "snowflake_mediaid_test"
 
 # include all the views
 include: "*.view"
